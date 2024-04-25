@@ -1,4 +1,4 @@
-## 2. Proletarians and Communists
+## Proletarians and Communists
 
 In what relation do the Communists stand to the proletarians as a whole?
 

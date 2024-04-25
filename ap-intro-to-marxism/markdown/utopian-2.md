@@ -1,4 +1,4 @@
-### II - Dialectics
+## Dialectics
 
 In the meantime, along with and after the French philosophy of the 18th century, had arisen the new German philosophy, culminating in Hegel.
 

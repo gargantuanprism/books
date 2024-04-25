@@ -1,5 +1,6 @@
 # The Principles of Communism
-## Frederick Engels, 1847
+
+*Friedrich Engels, 1847*
 
 ### 1. What is Communism?
 Communism is the doctrine of the conditions of the liberation of the proletariat.

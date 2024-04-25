@@ -1,7 +1,6 @@
-# Chapter III. Socialist and Communist Literature
-
-## Reactionary Socialism
-### Feudal Socialism
+## Socialist and Communist Literature
+### Reactionary Socialism
+#### Feudal Socialism
 
 Owing to their historical position, it became the vocation of the aristocracies of France and England to write pamphlets against modern bourgeois society. In the French Revolution of July 1830, and in the English reform agitation[A], these aristocracies again succumbed to the hateful upstart. Thenceforth, a serious political struggle was altogether out of the question. A literary battle alone remained possible. But even in the domain of literature the old cries of the restoration period had become impossible.(1)
 
@@ -25,7 +24,7 @@ As the parson has ever gone hand in hand with the landlord, so has Clerical Soci
 
 Nothing is easier than to give Christian asceticism a Socialist tinge. Has not Christianity declaimed against private property, against marriage, against the State? Has it not preached in the place of these, charity and poverty, celibacy and mortification of the flesh, monastic life and Mother Church? Christian Socialism is but the holy water with which the priest consecrates the heart-burnings of the aristocrat.
 
-### Petty-Bourgeois Socialism
+#### Petty-Bourgeois Socialism
 The feudal aristocracy was not the only class that was ruined by the bourgeoisie, not the only class whose conditions of existence pined and perished in the atmosphere of modern bourgeois society. The medieval burgesses and the small peasant proprietors were the precursors of the modern bourgeoisie. In those countries which are but little developed, industrially and commercially, these two classes still vegetate side by side with the rising bourgeoisie.
 
 In countries where modern civilisation has become fully developed, a new class of petty bourgeois has been formed, fluctuating between proletariat and bourgeoisie, and ever renewing itself as a supplementary part of bourgeois society. The individual members of this class, however, are being constantly hurled down into the proletariat by the action of competition, and, as modern industry develops, they even see the moment approaching when they will completely disappear as an independent section of modern society, to be replaced in manufactures, agriculture and commerce, by overlookers, bailiffs and shopmen.
@@ -40,7 +39,7 @@ Its last words are: corporate guilds for manufacture; patriarchal relations in a
 
 Ultimately, when stubborn historical facts had dispersed all intoxicating effects of self-deception, this form of Socialism ended in a miserable fit of the blues.
 
-### German or “True” Socialism
+#### German or “True” Socialism
 The Socialist and Communist literature of France, a literature that originated under the pressure of a bourgeoisie in power, and that was the expressions of the struggle against this power, was introduced into Germany at a time when the bourgeoisie, in that country, had just begun its contest with feudal absolutism.
 
 German philosophers, would-be philosophers, and beaux esprits (men of letters), eagerly seized on this literature, only forgetting, that when these writings immigrated from France into Germany, French social conditions had not immigrated along with them. In contact with German social conditions, this French literature lost all its immediate practical significance and assumed a purely literary aspect. Thus, to the German philosophers of the Eighteenth Century, the demands of the first French Revolution were nothing more than the demands of “Practical Reason” in general, and the utterance of the will of the revolutionary French bourgeoisie signified, in their eyes, the laws of pure Will, of Will as it was bound to be, of true human Will generally.
