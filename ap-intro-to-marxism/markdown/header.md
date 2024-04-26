@@ -1,10 +1,12 @@
 ---
 documentclass: extbook
 classoption:
+    - 11pt
     - openany
 geometry:
     - paperwidth=5in
     - paperheight=8in
+    - bottom=0.75in
 indent: true
 toc: true
 toc-depth: 1
@@ -15,13 +17,5 @@ header-includes: |
     \fancyfoot{}
     \fancyhead[LE]{\thepage \hfill \nouppercase{\leftmark}}
     \fancyhead[RO]{\nouppercase{\rightmark} \hfill \thepage}
-
-    \makeatletter
-    \renewcommand\mainmatter{%
-        \clearpage
-        \@mainmattertrue
-        \pagenumbering{arabic}
-    }
-    \makeatother
 ---
 
