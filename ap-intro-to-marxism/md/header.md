@@ -11,7 +11,6 @@ indent: true
 toc: true
 toc-depth: 1
 header-includes: |
-    \counterwithin*{footnote}{chapter}
     \usepackage{fancyhdr}
     \pagestyle{fancy}
     \fancyhead{}
