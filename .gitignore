@@ -1,4 +1,5 @@
-ap-intro-to-marxism/html
-ap-intro-to-marxism/pdf
+ap-intro-to-marxism/out/*.pdf
+ap-intro-to-marxism/out/*.tex
+ap-intro-to-marxism/out/*.html
 dist
 
