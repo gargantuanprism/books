@@ -22,7 +22,12 @@ Finally, they labour everywhere for the union and agreement of the democratic pa
 
 The Communists disdain to conceal their views and aims. They openly declare that their ends can be attained only by the forcible overthrow of all existing social conditions. Let the ruling classes tremble at a Communistic revolution. The proletarians have nothing to lose but their chains. They have a world to win.
 
-Working Men of All Countries, Unite!
+```{=latex}
+\vspace{3mm}
+\begin{center}
+{\huge \bfseries{Working Men of All Countries, Unite!}}
+\end{center}
+```
 
 [^1]: The party then represented in Parliament by Ledru-Rollin, in literature by Louis Blanc, in the daily press by the *Réforme*. The name of Social-Democracy signifies, with these its inventors, a section of the Democratic or Republican Party more or less tinged with socialism. [Engels, English Edition 1888]
 

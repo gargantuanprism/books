@@ -11,6 +11,7 @@ indent: true
 toc: true
 toc-depth: 1
 header-includes: |
+    \usepackage[fit,breakall]{truncate}
     \usepackage{comment}
     \usepackage{fancyhdr}
     \pagestyle{fancy}
@@ -29,5 +30,5 @@ header-includes: |
 
 \renewcommand{\headrulewidth}{0.5pt}
 \fancyhead[LE]{\thepage \hfill \nouppercase{\leftmark}}
-\fancyhead[RO]{\nouppercase{\rightmark} \hfill \thepage}
+\fancyhead[RO]{\truncate{0.9 \textwidth}{\nouppercase{\rightmark}} \hfill \thepage}
 
